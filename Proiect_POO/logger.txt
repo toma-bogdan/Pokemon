@@ -1,0 +1,808 @@
+Lupta cu Neutrel: Charmander
+
+Charmander normal attack/Neutrel2 normal attack -> Rezultat:
+Charmander: 52 
+Neutrel2: 15
+
+Charmander normal attack/Neutrel2 normal attack -> Rezultat:
+Charmander: 52 
+Neutrel2: 10
+
+Charmander ability1 attack/Neutrel nu ataca fiindca are stun -> Rezultat:
+Charmander: 52 ability 1 cooldown 4 
+Neutrel2: 6
+
+Charmander ability2 attack/Neutrel2 normal attack -> Rezultat:
+Charmander: 52 ability 1 cooldown 3 ability2 cooldown 6 
+Neutrel2: -1
+
+Lupta cu Neutrel: Jigglypuff
+
+Jigglypuff ability1 attack/Neutrel nu ataca fiindca are stun -> Rezultat:
+Jigglypuff: 34 ability 1 cooldown 4 
+Neutrel1: 6
+
+Jigglypuff ability2 attack/Neutrel nu ataca fiindca are stun -> Rezultat:
+Jigglypuff: 34 ability 1 cooldown 3 ability2 cooldown 4 
+Neutrel1: 3
+
+Jigglypuff normal attack/Neutrel1 normal attack -> Rezultat:
+Jigglypuff: 33 ability 1 cooldown 2 ability2 cooldown 3 
+Neutrel1: 0
+
+Lupta intre: Charmander si Jigglypuff
+
+Charmander ability2 attack/Jigglypuff ability2 attack -> Rezultat
+Charmander: 50 ability2 cooldown 6 
+Jigglypuff: 28 ability2 cooldown 4 
+
+Charmander nu ataca fiindca are stun /Jigglypuff normal attack -> Rezultat
+Charmander: 50 abilitate2 cooldown 4
+Jigglypuff: 28 ability2 cooldown 3 
+
+Charmander normal attack/Jigglypuff ability1 attack -> Rezultat:
+Charmander: 46 ability2 cooldown 4 
+Jigglypuff: 24 ability 1 cooldown 4 ability2 cooldown 2 
+
+Charmander nu ataca fiindca are stun /Jigglypuff normal attack -> Rezultat
+Charmander: 46 abilitate2 cooldown 2
+Jigglypuff: 24 ability 1 cooldown 3 ability2 cooldown 1 
+
+Charmander normal attack/Jigglypuff normal attack -> Rezultat
+Charmander: 46 ability2 cooldown 2 
+Jigglypuff: 20 ability 1 cooldown 2 
+
+Charmander normal attack/Jigglypuff ability2 attack -> Rezultat
+Charmander: 43 ability2 cooldown 1 
+Jigglypuff: 16 ability 1 cooldown 1 ability2 cooldown 4 
+
+Charmander nu ataca fiindca are stun /Jigglypuff normal attack -> Rezultat
+Charmander: 43 
+Jigglypuff: 16 ability2 cooldown 3 
+
+Charmander ability1 attack/Jigglypuff nu ataca fiindca are stun -> Rezultat:
+Charmander: 43 ability 1 cooldown 4 abilitate2 cooldown 1
+Jigglypuff: 12 
+
+Charmander normal attack/Jigglypuff ability1 attack -> Rezultat:
+Charmander: 39 ability 1 cooldown 3 
+Jigglypuff: 8 ability 1 cooldown 4 ability2 cooldown 1 
+
+Charmander nu ataca fiindca are stun /Jigglypuff ability2 attack -> Rezultat
+Charmander: 36 abilitate1 cooldown 1 
+Jigglypuff: 8 ability 1 cooldown 3 ability2 cooldown 4 
+
+Charmander nu ataca fiindca are stun /Jigglypuff normal attack -> Rezultat
+Charmander: 36 
+Jigglypuff: 8 ability 1 cooldown 2 ability2 cooldown 3 
+
+Charmander ability2 attack/Jigglypuff normal attack -> Rezultat
+Charmander: 36 ability2 cooldown 6 
+Jigglypuff: 1 ability 1 cooldown 1 ability2 cooldown 2 
+
+Charmander ability1 attack/Jigglypuff nu ataca fiindca are stun -> Rezultat:
+Charmander: 36 ability 1 cooldown 4 ability2 cooldown 5 
+Jigglypuff: -3 
+
+Lupta cu Neutrel: Snorlax
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Neutrel2-> Rezultat:
+Snorlax: 62 ability2 cooldown 5 
+Neutrel2: 20
+
+Snorlax ability1 attack/Neutrel nu ataca fiindca are stun -> Rezultat:
+Snorlax: 62 ability 1 cooldown 5 ability2 cooldown 4 
+Neutrel2: 16
+
+Snorlax normal attack/Neutrel2 normal attack -> Rezultat:
+Snorlax: 62 ability 1 cooldown 4 ability2 cooldown 3 
+Neutrel2: 14
+
+Snorlax normal attack/Neutrel2 normal attack -> Rezultat:
+Snorlax: 62 ability 1 cooldown 3 ability2 cooldown 2 
+Neutrel2: 12
+
+Snorlax normal attack/Neutrel2 normal attack -> Rezultat:
+Snorlax: 62 ability 1 cooldown 2 ability2 cooldown 1 
+Neutrel2: 10
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Neutrel2-> Rezultat:
+Snorlax: 62 ability 1 cooldown 1 ability2 cooldown 5 
+Neutrel2: 10
+
+Snorlax ability1 attack/Neutrel nu ataca fiindca are stun -> Rezultat:
+Snorlax: 62 ability 1 cooldown 5 ability2 cooldown 4 
+Neutrel2: 6
+
+Snorlax normal attack/Neutrel2 normal attack -> Rezultat:
+Snorlax: 62 ability 1 cooldown 4 ability2 cooldown 3 
+Neutrel2: 4
+
+Snorlax normal attack/Neutrel2 normal attack -> Rezultat:
+Snorlax: 62 ability 1 cooldown 3 ability2 cooldown 2 
+Neutrel2: 2
+
+Snorlax normal attack/Neutrel2 normal attack -> Rezultat:
+Snorlax: 62 ability 1 cooldown 2 ability2 cooldown 1 
+Neutrel2: 0
+
+Lupta cu Neutrel: Snorlax
+
+Snorlax ability1 attack/Neutrel nu ataca fiindca are stun -> Rezultat:
+Snorlax: 62 ability 1 cooldown 5 
+Neutrel1: 6
+
+Snorlax normal attack/Neutrel1 normal attack -> Rezultat:
+Snorlax: 62 ability 1 cooldown 4 
+Neutrel1: 4
+
+Snorlax normal attack/Neutrel1 normal attack -> Rezultat:
+Snorlax: 62 ability 1 cooldown 3 
+Neutrel1: 2
+
+Snorlax normal attack/Neutrel1 normal attack -> Rezultat:
+Snorlax: 62 ability 1 cooldown 2 
+Neutrel1: 0
+
+Lupta intre: Snorlax si Snorlax
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 63 
+Snorlax: 63 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax normal attack -> Rezultat
+Snorlax: 63 
+Snorlax: 63 ability2 cooldown 4 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 63 
+Snorlax: 63 ability2 cooldown 3 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 63 ability2 cooldown 5 abilitate2 cooldown 1
+Snorlax: 63 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 63 ability 1 cooldown 5 ability2 cooldown 4 
+Snorlax: 59 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 63 ability 1 cooldown 4 ability2 cooldown 3 
+Snorlax: 59 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 63 ability 1 cooldown 3 ability2 cooldown 2 
+Snorlax: 59 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax normal attack -> Rezultat
+Snorlax: 63 abilitate1 cooldown 1 
+Snorlax: 59 ability2 cooldown 4 
+
+Snorlax normal attack/Snorlax ability1 attack -> Rezultat:
+Snorlax: 59 ability 1 cooldown 1 
+Snorlax: 59 ability 1 cooldown 5 ability2 cooldown 3 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 59 
+Snorlax: 59 ability 1 cooldown 4 ability2 cooldown 2 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 59 ability 1 cooldown 5 
+Snorlax: 55 abilitate1 cooldown 2 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 59 ability 1 cooldown 4 ability2 cooldown 5 
+Snorlax: 55 abilitate1 cooldown 1 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 59 ability 1 cooldown 3 ability2 cooldown 4 
+Snorlax: 55 ability 1 cooldown 1 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax ability1 attack -> Rezultat:
+Snorlax: 55 abilitate1 cooldown 1 abilitate2 cooldown 2
+Snorlax: 55 ability 1 cooldown 5 ability2 cooldown 4 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 55 abilitate2 cooldown 1
+Snorlax: 55 ability 1 cooldown 4 ability2 cooldown 3 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 55 ability2 cooldown 1 
+Snorlax: 55 ability 1 cooldown 3 ability2 cooldown 2 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 55 
+Snorlax: 55 ability 1 cooldown 2 ability2 cooldown 1 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 55 ability 1 cooldown 5 
+Snorlax: 51 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 55 ability 1 cooldown 4 ability2 cooldown 5 
+Snorlax: 51 
+
+Snorlax normal attack/Snorlax ability1 attack -> Rezultat:
+Snorlax: 51 ability 1 cooldown 3 ability2 cooldown 4 
+Snorlax: 51 ability 1 cooldown 5 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 51 abilitate1 cooldown 1 abilitate2 cooldown 2
+Snorlax: 51 ability 1 cooldown 4 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 51 ability 1 cooldown 1 ability2 cooldown 2 
+Snorlax: 51 ability 1 cooldown 3 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax normal attack -> Rezultat
+Snorlax: 51 
+Snorlax: 51 ability 1 cooldown 2 ability2 cooldown 4 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 51 ability2 cooldown 5 abilitate2 cooldown 2
+Snorlax: 51 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 51 ability2 cooldown 4 
+Snorlax: 51 ability2 cooldown 2 
+
+Snorlax normal attack/Snorlax ability1 attack -> Rezultat:
+Snorlax: 47 ability2 cooldown 3 
+Snorlax: 51 ability 1 cooldown 5 ability2 cooldown 1 
+
+Snorlax nu ataca fiindca are stun /Snorlax ability2 attack -> Rezultat
+Snorlax: 47 abilitate2 cooldown 1
+Snorlax: 51 ability 1 cooldown 4 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax normal attack -> Rezultat
+Snorlax: 47 
+Snorlax: 51 ability 1 cooldown 3 ability2 cooldown 4 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 47 
+Snorlax: 51 ability 1 cooldown 2 ability2 cooldown 3 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 47 
+Snorlax: 51 ability 1 cooldown 1 ability2 cooldown 2 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 47 ability 1 cooldown 5 
+Snorlax: 47 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 47 ability 1 cooldown 4 ability2 cooldown 5 
+Snorlax: 47 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 47 ability 1 cooldown 3 ability2 cooldown 4 
+Snorlax: 47 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 47 ability 1 cooldown 2 ability2 cooldown 3 
+Snorlax: 47 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 47 ability 1 cooldown 1 ability2 cooldown 2 
+Snorlax: 47 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 47 ability 1 cooldown 5 ability2 cooldown 1 
+Snorlax: 43 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 47 ability 1 cooldown 4 ability2 cooldown 5 
+Snorlax: 43 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 47 ability 1 cooldown 3 ability2 cooldown 4 
+Snorlax: 43 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 47 ability 1 cooldown 2 ability2 cooldown 3 
+Snorlax: 43 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax ability1 attack -> Rezultat:
+Snorlax: 43 abilitate2 cooldown 1
+Snorlax: 43 ability 1 cooldown 5 ability2 cooldown 4 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 43 
+Snorlax: 43 ability 1 cooldown 4 ability2 cooldown 3 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 43 ability2 cooldown 5 abilitate2 cooldown 1
+Snorlax: 43 abilitate1 cooldown 2 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 43 ability2 cooldown 4 
+Snorlax: 43 ability 1 cooldown 2 ability2 cooldown 1 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 43 ability2 cooldown 3 
+Snorlax: 43 ability 1 cooldown 1 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax ability1 attack -> Rezultat:
+Snorlax: 39 abilitate2 cooldown 1
+Snorlax: 43 ability 1 cooldown 5 ability2 cooldown 4 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 39 
+Snorlax: 43 ability 1 cooldown 4 ability2 cooldown 3 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 39 
+Snorlax: 43 ability 1 cooldown 3 ability2 cooldown 2 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 39 ability 1 cooldown 5 
+Snorlax: 39 abilitate1 cooldown 1 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 39 ability 1 cooldown 4 
+Snorlax: 39 ability 1 cooldown 1 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax normal attack -> Rezultat
+Snorlax: 39 abilitate1 cooldown 2 
+Snorlax: 39 ability2 cooldown 4 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 39 ability 1 cooldown 2 ability2 cooldown 5 abilitate2 cooldown 2
+Snorlax: 39 
+
+Snorlax normal attack/Snorlax ability1 attack -> Rezultat:
+Snorlax: 35 ability 1 cooldown 1 ability2 cooldown 4 
+Snorlax: 39 ability 1 cooldown 5 ability2 cooldown 2 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 35 abilitate2 cooldown 2
+Snorlax: 39 ability 1 cooldown 4 ability2 cooldown 1 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 35 ability2 cooldown 2 
+Snorlax: 39 ability 1 cooldown 3 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 35 ability 1 cooldown 5 ability2 cooldown 1 
+Snorlax: 35 abilitate1 cooldown 1 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 35 ability 1 cooldown 4 ability2 cooldown 5 
+Snorlax: 35 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 35 ability 1 cooldown 3 ability2 cooldown 4 
+Snorlax: 35 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax ability1 attack -> Rezultat:
+Snorlax: 31 abilitate1 cooldown 1 abilitate2 cooldown 2
+Snorlax: 35 ability 1 cooldown 5 ability2 cooldown 4 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 31 abilitate2 cooldown 1
+Snorlax: 35 ability 1 cooldown 4 ability2 cooldown 3 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 31 ability2 cooldown 1 
+Snorlax: 35 ability 1 cooldown 3 ability2 cooldown 2 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 31 
+Snorlax: 35 ability 1 cooldown 2 ability2 cooldown 1 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 31 ability 1 cooldown 5 
+Snorlax: 31 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 31 ability 1 cooldown 4 ability2 cooldown 5 
+Snorlax: 31 
+
+Snorlax normal attack/Snorlax ability1 attack -> Rezultat:
+Snorlax: 27 ability 1 cooldown 3 ability2 cooldown 4 
+Snorlax: 31 ability 1 cooldown 5 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 27 abilitate1 cooldown 1 abilitate2 cooldown 2
+Snorlax: 31 ability 1 cooldown 4 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 27 ability 1 cooldown 1 ability2 cooldown 2 
+Snorlax: 31 ability 1 cooldown 3 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 27 ability 1 cooldown 5 ability2 cooldown 1 
+Snorlax: 27 abilitate1 cooldown 1 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 27 ability 1 cooldown 4 ability2 cooldown 5 
+Snorlax: 27 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 27 ability 1 cooldown 3 ability2 cooldown 4 
+Snorlax: 27 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 27 ability 1 cooldown 2 ability2 cooldown 3 
+Snorlax: 27 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 27 ability 1 cooldown 1 ability2 cooldown 2 
+Snorlax: 27 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 27 ability2 cooldown 1 
+Snorlax: 27 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 27 ability2 cooldown 5 
+Snorlax: 27 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 27 ability2 cooldown 4 
+Snorlax: 27 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax ability1 attack -> Rezultat:
+Snorlax: 23 abilitate2 cooldown 2
+Snorlax: 27 ability 1 cooldown 5 ability2 cooldown 4 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 23 abilitate2 cooldown 1
+Snorlax: 27 ability 1 cooldown 4 ability2 cooldown 3 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 23 ability 1 cooldown 5 ability2 cooldown 1 abilitate2 cooldown 1
+Snorlax: 23 abilitate1 cooldown 2 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 23 ability 1 cooldown 4 
+Snorlax: 23 ability 1 cooldown 2 ability2 cooldown 1 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 23 ability 1 cooldown 3 ability2 cooldown 5 
+Snorlax: 23 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 23 ability 1 cooldown 2 ability2 cooldown 4 
+Snorlax: 23 
+
+Snorlax normal attack/Snorlax ability1 attack -> Rezultat:
+Snorlax: 19 ability 1 cooldown 1 ability2 cooldown 3 
+Snorlax: 23 ability 1 cooldown 5 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 19 abilitate2 cooldown 1
+Snorlax: 23 ability 1 cooldown 4 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 19 ability 1 cooldown 5 ability2 cooldown 1 
+Snorlax: 19 abilitate1 cooldown 2 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 19 ability 1 cooldown 4 
+Snorlax: 19 ability 1 cooldown 2 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 19 ability 1 cooldown 3 
+Snorlax: 19 ability 1 cooldown 1 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 19 ability 1 cooldown 2 ability2 cooldown 5 
+Snorlax: 19 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 19 ability 1 cooldown 1 ability2 cooldown 4 
+Snorlax: 19 
+
+Snorlax normal attack/Snorlax ability1 attack -> Rezultat:
+Snorlax: 15 ability2 cooldown 3 
+Snorlax: 19 ability 1 cooldown 5 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 15 abilitate2 cooldown 1
+Snorlax: 19 ability 1 cooldown 4 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 15 ability2 cooldown 1 
+Snorlax: 19 ability 1 cooldown 3 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax normal attack -> Rezultat
+Snorlax: 15 
+Snorlax: 19 ability 1 cooldown 2 ability2 cooldown 4 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 15 
+Snorlax: 19 ability 1 cooldown 1 ability2 cooldown 3 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 15 ability 1 cooldown 5 abilitate2 cooldown 1
+Snorlax: 15 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 15 ability 1 cooldown 4 ability2 cooldown 5 
+Snorlax: 15 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 15 ability 1 cooldown 3 ability2 cooldown 4 
+Snorlax: 15 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 15 ability 1 cooldown 2 ability2 cooldown 3 
+Snorlax: 15 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 15 ability 1 cooldown 1 ability2 cooldown 2 
+Snorlax: 15 
+
+Snorlax normal attack/Snorlax ability1 attack -> Rezultat:
+Snorlax: 11 ability2 cooldown 1 
+Snorlax: 15 ability 1 cooldown 5 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 11 
+Snorlax: 15 ability 1 cooldown 4 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 11 ability2 cooldown 5 
+Snorlax: 15 abilitate1 cooldown 2 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 11 ability2 cooldown 4 
+Snorlax: 15 ability 1 cooldown 2 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 11 ability 1 cooldown 5 ability2 cooldown 3 
+Snorlax: 11 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 11 ability 1 cooldown 4 ability2 cooldown 2 
+Snorlax: 11 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax normal attack -> Rezultat
+Snorlax: 11 abilitate1 cooldown 2 
+Snorlax: 11 ability2 cooldown 4 
+
+Snorlax normal attack/Snorlax ability1 attack -> Rezultat:
+Snorlax: 7 ability 1 cooldown 2 
+Snorlax: 11 ability 1 cooldown 5 ability2 cooldown 3 
+
+Snorlax nu ataca fiindca are stun /Snorlax normal attack -> Rezultat
+Snorlax: 7 
+Snorlax: 11 ability 1 cooldown 4 ability2 cooldown 2 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 7 ability2 cooldown 5 
+Snorlax: 11 abilitate1 cooldown 2 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 7 ability 1 cooldown 5 ability2 cooldown 4 
+Snorlax: 7 abilitate1 cooldown 1 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 7 ability 1 cooldown 4 ability2 cooldown 3 
+Snorlax: 7 ability 1 cooldown 1 
+
+Snorlax normal attack/Snorlax normal attack -> Rezultat
+Snorlax: 7 ability 1 cooldown 3 ability2 cooldown 2 
+Snorlax: 7 
+
+Snorlax normal attack/Snorlax ability2 attack -> Rezultat
+Snorlax: 7 ability 1 cooldown 2 ability2 cooldown 1 
+Snorlax: 7 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax normal attack -> Rezultat
+Snorlax: 7 
+Snorlax: 7 ability2 cooldown 4 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 7 ability 1 cooldown 5 abilitate2 cooldown 2
+Snorlax: 3 
+
+Snorlax ability2 attack/Snorlax a dat dodge la atacul Snorlax-> Rezultat:
+Snorlax: 7 ability 1 cooldown 4 ability2 cooldown 5 abilitate2 cooldown 1
+Snorlax: 3 
+
+Snorlax normal attack/Snorlax ability1 attack -> Rezultat:
+Snorlax: 3 ability 1 cooldown 3 ability2 cooldown 4 
+Snorlax: 3 ability 1 cooldown 5 ability2 cooldown 1 
+
+Snorlax nu ataca fiindca are stun /Snorlax ability2 attack -> Rezultat
+Snorlax: 3 abilitate1 cooldown 1 abilitate2 cooldown 2
+Snorlax: 3 ability 1 cooldown 4 ability2 cooldown 5 
+
+Snorlax a dat dodge la atacul Snorlax/Snorlax normal attack -> Rezultat
+Snorlax: 3 abilitate2 cooldown 1
+Snorlax: 3 ability 1 cooldown 3 ability2 cooldown 4 
+
+Snorlax ability1 attack/Snorlax nu ataca fiindca are stun -> Rezultat:
+Snorlax: 3 ability 1 cooldown 5 ability2 cooldown 1 abilitate2 cooldown 2
+Snorlax: -1 abilitate1 cooldown 1 
+
+Lupta cu Neutrel: Charmander
+
+Charmander normal attack/Neutrel2 normal attack -> Rezultat:
+Charmander: 54 
+Neutrel2: 13
+
+Charmander normal attack/Neutrel2 normal attack -> Rezultat:
+Charmander: 54 
+Neutrel2: 6
+
+Charmander ability1 attack/Neutrel nu ataca fiindca are stun -> Rezultat:
+Charmander: 54 ability 1 cooldown 4 
+Neutrel2: 2
+
+Charmander normal attack/Neutrel2 normal attack -> Rezultat:
+Charmander: 54 ability 1 cooldown 3 
+Neutrel2: -5
+
+Lupta cu Neutrel: Meowth
+
+Meowth normal attack/Neutrel1 normal attack -> Rezultat:
+Meowth: 41 
+Neutrel1: 8
+
+Meowth ability1 attack/Meowth a dat dodge la atacul Neutrel1-> Rezultat:
+Meowth: 41 ability 1 cooldown 4 
+Neutrel1: 3
+
+Meowth ability2 attack/Meowth a dat dodge la atacul Neutrel1-> Rezultat:
+Meowth: 41 ability 1 cooldown 3 ability2 cooldown 3 
+Neutrel1: 2
+
+Meowth normal attack/Neutrel1 normal attack -> Rezultat:
+Meowth: 41 ability 1 cooldown 2 ability2 cooldown 2 
+Neutrel1: 0
+
+Lupta intre: Charmander si Meowth
+
+Charmander ability2 attack/Meowth ability1 attack -> Rezultat:
+Charmander: 50 ability2 cooldown 6 
+Meowth: 35 ability 1 cooldown 4 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 50 abilitate2 cooldown 4
+Meowth: 35 ability 1 cooldown 3 
+
+Charmander ability1 attack/Meowth nu ataca fiindca are stun -> Rezultat:
+Charmander: 50 ability 1 cooldown 4 ability2 cooldown 4 
+Meowth: 31 abilitate1 cooldown 1 
+
+Charmander normal attack/Meowth ability2 attack -> Rezultat
+Charmander: 49 ability 1 cooldown 3 ability2 cooldown 3 
+Meowth: 29 ability 1 cooldown 1 ability2 cooldown 3 
+
+Meowth a dat dodge la atacul Charmander/Meowth ability1 attack -> Rezultat:
+Charmander: 44 abilitate1 cooldown 1 abilitate2 cooldown 1
+Meowth: 29 ability 1 cooldown 4 ability2 cooldown 2 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 44 
+Meowth: 29 ability 1 cooldown 3 ability2 cooldown 1 
+
+Charmander normal attack/Meowth ability2 attack -> Rezultat
+Charmander: 43 
+Meowth: 27 ability 1 cooldown 2 ability2 cooldown 3 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 43 
+Meowth: 27 ability 1 cooldown 1 ability2 cooldown 2 
+
+Charmander normal attack/Meowth ability1 attack -> Rezultat:
+Charmander: 38 
+Meowth: 25 ability 1 cooldown 4 ability2 cooldown 1 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 38 
+Meowth: 25 ability 1 cooldown 3 
+
+Charmander ability2 attack/Meowth normal attack -> Rezultat
+Charmander: 38 ability2 cooldown 6 
+Meowth: 18 ability 1 cooldown 2 
+
+Charmander normal attack/Meowth ability2 attack -> Rezultat
+Charmander: 37 ability2 cooldown 5 
+Meowth: 16 ability 1 cooldown 1 ability2 cooldown 3 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 37 abilitate2 cooldown 3
+Meowth: 16 ability2 cooldown 2 
+
+Charmander normal attack/Meowth normal attack -> Rezultat
+Charmander: 37 ability2 cooldown 3 
+Meowth: 14 ability2 cooldown 1 
+
+Charmander normal attack/Meowth ability1 attack -> Rezultat:
+Charmander: 32 ability2 cooldown 2 
+Meowth: 12 ability 1 cooldown 4 
+
+Meowth a dat dodge la atacul Charmander/Meowth ability2 attack -> Rezultat
+Charmander: 31 
+Meowth: 12 ability 1 cooldown 3 ability2 cooldown 3 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 31 
+Meowth: 12 ability 1 cooldown 2 ability2 cooldown 2 
+
+Charmander ability2 attack/Meowth normal attack -> Rezultat
+Charmander: 31 ability2 cooldown 6 
+Meowth: 5 ability 1 cooldown 1 ability2 cooldown 1 
+
+Charmander ability1 attack/Meowth nu ataca fiindca are stun -> Rezultat:
+Charmander: 31 ability 1 cooldown 4 ability2 cooldown 5 
+Meowth: 1 
+
+Charmander normal attack/Meowth ability1 attack -> Rezultat:
+Charmander: 26 ability 1 cooldown 3 ability2 cooldown 4 
+Meowth: -1 ability 1 cooldown 4 
+
+Lupta intre: Charmander si Meowth
+
+Charmander normal attack/Meowth ability1 attack -> Rezultat:
+Charmander: 51 
+Meowth: 39 ability 1 cooldown 4 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 51 
+Meowth: 39 ability 1 cooldown 3 
+
+Charmander normal attack/Meowth normal attack -> Rezultat
+Charmander: 51 
+Meowth: 36 ability 1 cooldown 2 
+
+Charmander ability1 attack/Meowth nu ataca fiindca are stun -> Rezultat:
+Charmander: 51 ability 1 cooldown 4 
+Meowth: 32 
+
+Charmander normal attack/Meowth normal attack -> Rezultat
+Charmander: 51 ability 1 cooldown 3 
+Meowth: 29 
+
+Charmander ability2 attack/Meowth ability1 attack -> Rezultat:
+Charmander: 46 ability 1 cooldown 2 ability2 cooldown 6 
+Meowth: 22 ability 1 cooldown 4 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 46 abilitate2 cooldown 4
+Meowth: 22 ability 1 cooldown 3 
+
+Charmander normal attack/Meowth ability2 attack -> Rezultat
+Charmander: 45 ability2 cooldown 4 
+Meowth: 19 ability 1 cooldown 2 ability2 cooldown 3 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 45 abilitate2 cooldown 2
+Meowth: 19 ability 1 cooldown 1 ability2 cooldown 2 
+
+Charmander normal attack/Meowth normal attack -> Rezultat
+Charmander: 45 ability2 cooldown 2 
+Meowth: 16 ability2 cooldown 1 
+
+Charmander normal attack/Meowth ability1 attack -> Rezultat:
+Charmander: 40 ability2 cooldown 1 
+Meowth: 13 ability 1 cooldown 4 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 40 
+Meowth: 13 ability 1 cooldown 3 
+
+Charmander ability1 attack/Meowth nu ataca fiindca are stun -> Rezultat:
+Charmander: 40 ability 1 cooldown 4 
+Meowth: 9 abilitate1 cooldown 1 
+
+Charmander ability2 attack/Meowth ability2 attack -> Rezultat
+Charmander: 39 ability 1 cooldown 3 ability2 cooldown 6 
+Meowth: 2 ability 1 cooldown 1 ability2 cooldown 3 
+
+Meowth a dat dodge la atacul Charmander/Meowth ability1 attack -> Rezultat:
+Charmander: 34 abilitate1 cooldown 1 abilitate2 cooldown 4
+Meowth: 2 ability 1 cooldown 4 ability2 cooldown 2 
+
+Meowth a dat dodge la atacul Charmander/Meowth normal attack -> Rezultat
+Charmander: 34 abilitate2 cooldown 3
+Meowth: 2 ability 1 cooldown 3 ability2 cooldown 1 
+
+Charmander ability1 attack/Meowth nu ataca fiindca are stun -> Rezultat:
+Charmander: 34 ability 1 cooldown 4 ability2 cooldown 3 
+Meowth: -2 abilitate1 cooldown 1 
+

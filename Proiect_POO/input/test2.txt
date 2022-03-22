@@ -1,0 +1,4 @@
+Antrenor1 20 Charmander Snorlax Charmander
+1 Scut 2 Scut Bagheta_Magica 1 Vitamine
+Antrenor2 21 Jigglypuff Snorlax Meowth
+1 Pelerina 0 1 Scut

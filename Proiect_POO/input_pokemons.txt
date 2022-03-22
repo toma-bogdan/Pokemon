@@ -1,0 +1,12 @@
+Neutrel1 10 3 0 1 1 0 False False 0 0 False False 0
+Neutrel2 20 4 0 1 1 0 False False 0 0 False False 0
+Pikachu 35 0 4 2 3 6 False False 4 4 True True 5
+Bulbasaur 42 0 5 3 1 6 False False 4 5 False False 3
+Charmander 50 4 0 3 2 4 True False 4 7 False False 6
+Squirtle 60 0 3 5 5 4 False False 3 2 True False 2
+Snorlax 62 3 0 6 4 4 True False 5 0 False True 5
+Vulpix 36 5 0 2 4 8 True False 6 2 False True 7
+Eevee 39 0 4 3 3 5 False False 3 3 True False 3
+Jigglypuff 34 4 0 2 3 4 True False 4 3 True False 4
+Meowth 41 3 0 4 2 5 False True 4 1 False True 3
+Psyduck 43 3 0 3 3 2 False False 4 2 True False 5
